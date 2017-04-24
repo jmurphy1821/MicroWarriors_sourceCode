@@ -1,0 +1,7 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="MainMenuButton">
+			<method name="AdvanceToGame"/>
+		</type>
+	</assembly>
+</linker>
